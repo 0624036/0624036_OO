@@ -1,16 +1,8 @@
-+ 學校：[國立高雄科技大學/National Kaohsiung University of Science and Technology (NKUST)](https://www.nkust.edu.tw/)
++ # 學校：[國立高雄科技大學(NKUST)](https://www.nkust.edu.tw/)
 
-+ 班級：資訊管理系所3B
++ ## 班級：資訊管理系所3B:laughing:
 
 ---
-# 0624036 陳雋和
-
-## 0624036 陳雋和
-
-### 0624036 陳雋和
-
-#### 0624036 陳雋和
-
-##### 0624036 陳雋和
-
-###### 0624036 陳雋和
+```學號：0624036
+姓名：陳雋和
+```
